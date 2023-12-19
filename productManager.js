@@ -2,7 +2,7 @@ class ProductManager{
     constructor(){
         this.products = []
     }
-    static id = 10
+    static id = 100
 
     
     addProduct(title, description, price, thumbnail, code, stock) {
